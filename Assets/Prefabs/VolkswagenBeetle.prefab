@@ -52,6 +52,14 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 3
       objectReference: {fileID: 0}
+    - target: {fileID: -7019941210482095201, guid: dd15194fe4872404ca578a45926c0ff4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: fc366a8d7d5bd374c82f1f8424103c61, type: 2}
+    - target: {fileID: -7019941210482095201, guid: dd15194fe4872404ca578a45926c0ff4, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 639b2358886cc0341aaf3fd46f64d792, type: 2}
     - target: {fileID: -4502713197088299577, guid: dd15194fe4872404ca578a45926c0ff4, type: 3}
       propertyPath: m_Layer
       value: 3
@@ -64,6 +72,14 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 3
       objectReference: {fileID: 0}
+    - target: {fileID: -751674264910005723, guid: dd15194fe4872404ca578a45926c0ff4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: fc366a8d7d5bd374c82f1f8424103c61, type: 2}
+    - target: {fileID: -751674264910005723, guid: dd15194fe4872404ca578a45926c0ff4, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 639b2358886cc0341aaf3fd46f64d792, type: 2}
     - target: {fileID: -642009646067425077, guid: dd15194fe4872404ca578a45926c0ff4, type: 3}
       propertyPath: m_Layer
       value: 3
@@ -88,6 +104,14 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 3
       objectReference: {fileID: 0}
+    - target: {fileID: 1131149251178551573, guid: dd15194fe4872404ca578a45926c0ff4, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: fc366a8d7d5bd374c82f1f8424103c61, type: 2}
+    - target: {fileID: 1131149251178551573, guid: dd15194fe4872404ca578a45926c0ff4, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 639b2358886cc0341aaf3fd46f64d792, type: 2}
     - target: {fileID: 7789360797202270390, guid: dd15194fe4872404ca578a45926c0ff4, type: 3}
       propertyPath: m_Layer
       value: 3
