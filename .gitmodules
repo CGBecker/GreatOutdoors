@@ -1,0 +1,3 @@
+[submodule "unity-simulation-pack"]
+	path = unity-simulation-pack
+	url = https://github.com/CGBecker/unity-simulation-pack.git
