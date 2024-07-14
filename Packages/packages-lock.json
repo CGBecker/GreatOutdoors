@@ -12,6 +12,12 @@
       "source": "local",
       "dependencies": {}
     },
+    "com.rorygames.vhacd": {
+      "version": "file:../VHACD/com.rorygames.vhacd",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {}
+    },
     "com.unity.addressables": {
       "version": "1.21.21",
       "depth": 0,

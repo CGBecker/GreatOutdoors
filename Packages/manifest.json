@@ -2,6 +2,7 @@
   "dependencies": {
     "com.cgbecker.external.assets": "file:../unity-external-assets",
     "com.cgbecker.sim.pack": "file:../unity-simulation-pack",
+    "com.rorygames.vhacd": "file:../VHACD/com.rorygames.vhacd",
     "com.unity.addressables": "1.21.21",
     "com.unity.collab-proxy": "2.4.3",
     "com.unity.collections": "2.4.2",
