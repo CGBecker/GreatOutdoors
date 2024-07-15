@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Vehicles
+  m_EditorClassIdentifier: 
+  m_GroupName: Vehicles
+  m_Data:
+    m_SerializedData: []
+  m_GUID: b1c987c6282f9754598303dffd647683
+  m_SerializeEntries:
+  - m_GUID: d5d799b5ffb73324ead2c8cebf6042fa
+    m_Address: Assets/Prefabs/VolkswagenBeetle.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c60ddfd60fbaa40428c973ec25083315
+    m_Address: Assets/Prefabs/Cybertruck.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ea56f6ba004595445b5253f2187770f0
+    m_Address: Assets/Prefabs/VolkswagenGolfMk1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: bbac4488d5f78ef429879753e656532d, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 6ce81df83a8862c45a003b8c9b249eab, type: 2}
+    - {fileID: 11400000, guid: 3f6f196c8c8f8474786da05fe3aca81a, type: 2}
