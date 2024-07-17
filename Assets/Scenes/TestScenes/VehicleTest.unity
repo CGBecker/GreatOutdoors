@@ -14616,7 +14616,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1421776447161125952, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
       propertyPath: BrakesTorque
-      value: 10000
+      value: 1000
       objectReference: {fileID: 0}
     - target: {fileID: 1421776447161125952, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
       propertyPath: ForwardTorque
@@ -14624,7 +14624,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1421776447161125952, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
       propertyPath: ReverseTorque
-      value: 200
+      value: 500
       objectReference: {fileID: 0}
     - target: {fileID: 1421776447161125952, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
       propertyPath: HeadLights.Array.data[0]
@@ -14652,7 +14652,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1421776447161125952, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
       propertyPath: ReverseLightsTargetIntensityOn
-      value: 100
+      value: 50
       objectReference: {fileID: 0}
     - target: {fileID: 1421776447161125952, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
       propertyPath: TailAndBrakeLights.Array.data[0]
@@ -14664,7 +14664,7 @@ PrefabInstance:
       objectReference: {fileID: 1388454349}
     - target: {fileID: 1421776447161125952, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
       propertyPath: TailAndBrakeLightsTargetIntensityOn
-      value: 300
+      value: 50
       objectReference: {fileID: 0}
     - target: {fileID: 2708550501989937319, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
       propertyPath: m_Name
