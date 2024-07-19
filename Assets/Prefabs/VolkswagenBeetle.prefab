@@ -2167,8 +2167,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3376966312547887645}
-  - component: {fileID: 1421776447161125952}
   - component: {fileID: 7055643861776592604}
+  - component: {fileID: 5359746483095469839}
+  - component: {fileID: 5050437240234035665}
   m_Layer: 3
   m_Name: VolkswagenBeetle
   m_TagString: Untagged
@@ -2211,50 +2212,6 @@ Transform:
   - {fileID: 7377930474110999367}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
---- !u!114 &1421776447161125952
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2708550501989937319}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0c93c522102f57c4182e09514d6142eb, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  RootArticulationBody: {fileID: 7055643861776592604}
-  WheelsMotors:
-  - {fileID: 6420699305696208206}
-  - {fileID: 5094064794006963447}
-  ForwardTorque: 400
-  ReverseTorque: 200
-  WheelsSuspensions:
-  - {fileID: 6913699383246103935}
-  - {fileID: 8271550896999353452}
-  - {fileID: 1237609133861274356}
-  - {fileID: 2009196811751252070}
-  WheelsSteering:
-  - {fileID: 4535938802207040484}
-  - {fileID: 9053749699402046773}
-  MaxSteeringForce: 100000
-  SteeringForce: 600
-  WheelsWithBrakes:
-  - {fileID: 556086671527663420}
-  - {fileID: 6985819379631716660}
-  - {fileID: 6420699305696208206}
-  - {fileID: 5094064794006963447}
-  BrakesTorque: 1000
-  HeadLights:
-  - {fileID: 1545944341741405867}
-  - {fileID: 2778225172218162588}
-  HeadLightsTargetIntensity: 2500
-  TailAndBrakeLights: []
-  TailAndBrakeLightsIntensity: 30
-  ReverseLights:
-  - {fileID: 7157384601747375508}
-  - {fileID: 4629214717848744611}
-  ReverseLightsIntensity: 50
 --- !u!171741748 &7055643861776592604
 ArticulationBody:
   m_ObjectHideFlags: 0
@@ -2321,6 +2278,64 @@ ArticulationBody:
   m_Immovable: 0
   m_UseGravity: 1
   m_CollisionDetectionMode: 0
+--- !u!114 &5359746483095469839
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2708550501989937319}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 241006b949062dd4098e279cb5860084, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &5050437240234035665
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2708550501989937319}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08f5b770ac3e59747aa8d61721662db7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  RootArticulationBody: {fileID: 7055643861776592604}
+  WheelsMotors:
+  - {fileID: 6420699305696208206}
+  - {fileID: 5094064794006963447}
+  ForwardTorque: 2000
+  ReverseTorque: 500
+  WheelsSuspensions:
+  - {fileID: 6913699383246103935}
+  - {fileID: 8271550896999353452}
+  - {fileID: 1237609133861274356}
+  - {fileID: 2009196811751252070}
+  WheelsSteering:
+  - {fileID: 4535938802207040484}
+  - {fileID: 9053749699402046773}
+  MaxSteeringForce: 100000
+  SteeringForce: 600
+  WheelsWithBrakes:
+  - {fileID: 556086671527663420}
+  - {fileID: 6985819379631716660}
+  - {fileID: 6420699305696208206}
+  - {fileID: 5094064794006963447}
+  BrakesTorque: 1000
+  HeadLights:
+  - {fileID: 0}
+  - {fileID: 0}
+  HeadLightsTargetIntensityOn: 2500
+  TailAndBrakeLights:
+  - {fileID: 0}
+  - {fileID: 0}
+  TailAndBrakeLightsTargetIntensityOn: 50
+  ReverseLights:
+  - {fileID: 0}
+  - {fileID: 0}
+  ReverseLightsTargetIntensityOn: 50
 --- !u!1 &2797609671051312867
 GameObject:
   m_ObjectHideFlags: 0

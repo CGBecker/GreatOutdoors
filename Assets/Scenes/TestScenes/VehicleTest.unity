@@ -4023,17 +4023,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &340626102 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 9108107882957929148, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
-  m_PrefabInstance: {fileID: 1134990736}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7a68c43fe1f2a47cfa234b5eeaa98012, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &341024227
 GameObject:
   m_ObjectHideFlags: 0
@@ -10240,17 +10229,6 @@ Mesh:
     offset: 0
     size: 0
     path: 
---- !u!114 &745630486 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 6699394355237043740, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
-  m_PrefabInstance: {fileID: 1134990736}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7a68c43fe1f2a47cfa234b5eeaa98012, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &816477434
 GameObject:
   m_ObjectHideFlags: 0
@@ -11754,17 +11732,6 @@ Mesh:
     offset: 0
     size: 0
     path: 
---- !u!114 &901609827 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 2711091139068558481, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
-  m_PrefabInstance: {fileID: 1134990736}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7a68c43fe1f2a47cfa234b5eeaa98012, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!43 &929875041
 Mesh:
   m_ObjectHideFlags: 0
@@ -14614,58 +14581,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 1421776447161125952, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
-      propertyPath: BrakesTorque
-      value: 1000
-      objectReference: {fileID: 0}
-    - target: {fileID: 1421776447161125952, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
-      propertyPath: ForwardTorque
-      value: 2000
-      objectReference: {fileID: 0}
-    - target: {fileID: 1421776447161125952, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
-      propertyPath: ReverseTorque
-      value: 500
-      objectReference: {fileID: 0}
-    - target: {fileID: 1421776447161125952, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
-      propertyPath: HeadLights.Array.data[0]
-      value: 
-      objectReference: {fileID: 745630486}
-    - target: {fileID: 1421776447161125952, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
-      propertyPath: HeadLights.Array.data[1]
-      value: 
-      objectReference: {fileID: 1410417418}
-    - target: {fileID: 1421776447161125952, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
-      propertyPath: HeadLightsTargetIntensityOn
-      value: 2500
-      objectReference: {fileID: 0}
-    - target: {fileID: 1421776447161125952, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
-      propertyPath: ReverseLights.Array.data[0]
-      value: 
-      objectReference: {fileID: 340626102}
-    - target: {fileID: 1421776447161125952, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
-      propertyPath: ReverseLights.Array.data[1]
-      value: 
-      objectReference: {fileID: 901609827}
-    - target: {fileID: 1421776447161125952, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
-      propertyPath: TailAndBrakeLights.Array.size
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 1421776447161125952, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
-      propertyPath: ReverseLightsTargetIntensityOn
-      value: 50
-      objectReference: {fileID: 0}
-    - target: {fileID: 1421776447161125952, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
-      propertyPath: TailAndBrakeLights.Array.data[0]
-      value: 
-      objectReference: {fileID: 1257999405}
-    - target: {fileID: 1421776447161125952, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
-      propertyPath: TailAndBrakeLights.Array.data[1]
-      value: 
-      objectReference: {fileID: 1388454349}
-    - target: {fileID: 1421776447161125952, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
-      propertyPath: TailAndBrakeLightsTargetIntensityOn
-      value: 50
-      objectReference: {fileID: 0}
     - target: {fileID: 2708550501989937319, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
       propertyPath: m_Name
       value: VolkswagenBeetle
@@ -16383,17 +16298,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1257999405 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 3092214801994290139, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
-  m_PrefabInstance: {fileID: 1134990736}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7a68c43fe1f2a47cfa234b5eeaa98012, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &1260045140
 GameObject:
   m_ObjectHideFlags: 0
@@ -19175,28 +19079,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1388454349 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 1444865988241694175, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
-  m_PrefabInstance: {fileID: 1134990736}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7a68c43fe1f2a47cfa234b5eeaa98012, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &1410417418 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 8892571461419524079, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
-  m_PrefabInstance: {fileID: 1134990736}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7a68c43fe1f2a47cfa234b5eeaa98012, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &1434850555
 GameObject:
   m_ObjectHideFlags: 0
