@@ -2168,7 +2168,6 @@ GameObject:
   m_Component:
   - component: {fileID: 3376966312547887645}
   - component: {fileID: 7055643861776592604}
-  - component: {fileID: 5359746483095469839}
   - component: {fileID: 5050437240234035665}
   m_Layer: 3
   m_Name: VolkswagenBeetle
@@ -2278,18 +2277,6 @@ ArticulationBody:
   m_Immovable: 0
   m_UseGravity: 1
   m_CollisionDetectionMode: 0
---- !u!114 &5359746483095469839
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2708550501989937319}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 241006b949062dd4098e279cb5860084, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!114 &5050437240234035665
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2325,17 +2312,14 @@ MonoBehaviour:
   - {fileID: 5094064794006963447}
   BrakesTorque: 1000
   HeadLights:
-  - {fileID: 0}
-  - {fileID: 0}
-  HeadLightsTargetIntensityOn: 2500
+  - {fileID: 1545944341741405867}
+  - {fileID: 2778225172218162588}
   TailAndBrakeLights:
-  - {fileID: 0}
-  - {fileID: 0}
-  TailAndBrakeLightsTargetIntensityOn: 50
+  - {fileID: 1402898420467043561}
+  - {fileID: 2856941158246233219}
   ReverseLights:
-  - {fileID: 0}
-  - {fileID: 0}
-  ReverseLightsTargetIntensityOn: 50
+  - {fileID: 7157384601747375508}
+  - {fileID: 4629214717848744611}
 --- !u!1 &2797609671051312867
 GameObject:
   m_ObjectHideFlags: 0
