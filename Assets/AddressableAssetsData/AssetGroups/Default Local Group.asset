@@ -16,7 +16,12 @@ MonoBehaviour:
   m_Data:
     m_SerializedData: []
   m_GUID: 4e90eba02c80c4f41bcfae5bffdcd21f
-  m_SerializeEntries: []
+  m_SerializeEntries:
+  - m_GUID: 1d262c2ca20c1e4428103b78704f50f1
+    m_Address: Assets/Scenes/Levels/IslandTwo.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: bbac4488d5f78ef429879753e656532d, type: 2}
   m_SchemaSet:
