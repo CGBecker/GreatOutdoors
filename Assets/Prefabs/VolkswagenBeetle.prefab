@@ -1246,7 +1246,7 @@ MeshRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2415678448364595614}
   m_Enabled: 1
-  m_CastShadows: 1
+  m_CastShadows: 2
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
   m_StaticShadowCaster: 0
@@ -2314,12 +2314,21 @@ MonoBehaviour:
   HeadLights:
   - {fileID: 1545944341741405867}
   - {fileID: 2778225172218162588}
+  HeadLightsIntensity:
+  - 300
+  - 300
   TailAndBrakeLights:
   - {fileID: 1402898420467043561}
   - {fileID: 2856941158246233219}
+  TailAndBrakeLightsIntensity:
+  - 100
+  - 100
   ReverseLights:
   - {fileID: 7157384601747375508}
   - {fileID: 4629214717848744611}
+  ReverseLightsIntensity:
+  - 100
+  - 100
 --- !u!1 &2797609671051312867
 GameObject:
   m_ObjectHideFlags: 0

@@ -14626,16 +14626,12 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5050437240234035665, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
-      propertyPath: HeadLightsIntensity
-      value: 700
+      propertyPath: HeadLightsIntensity.Array.data[0]
+      value: 600
       objectReference: {fileID: 0}
     - target: {fileID: 5050437240234035665, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
-      propertyPath: ReverseLightsIntensity
-      value: 100
-      objectReference: {fileID: 0}
-    - target: {fileID: 5050437240234035665, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
-      propertyPath: TailAndBrakeLightsIntensity
-      value: 100
+      propertyPath: HeadLightsIntensity.Array.data[1]
+      value: 600
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
