@@ -15,7 +15,7 @@ MonoBehaviour:
   m_DefaultGroup: 4e90eba02c80c4f41bcfae5bffdcd21f
   m_currentHash:
     serializedVersion: 2
-    Hash: 2bcc14add979c168f971bd30ecf75257
+    Hash: 50af77ff40bb04f548da238fcb9f61ef
   m_OptimizeCatalogSize: 0
   m_BuildRemoteCatalog: 0
   m_BundleLocalCatalog: 0
@@ -89,6 +89,8 @@ MonoBehaviour:
   m_LabelTable:
     m_LabelNames:
     - default
+    - Levels
+    - Vehicles
   m_SchemaTemplates: []
   m_GroupTemplateObjects:
   - {fileID: 11400000, guid: 2e8e6276c3ecaf946a76f55ed6ebc5b8, type: 2}

@@ -20,17 +20,20 @@ MonoBehaviour:
   - m_GUID: d5d799b5ffb73324ead2c8cebf6042fa
     m_Address: Assets/Prefabs/VolkswagenBeetle.prefab
     m_ReadOnly: 0
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - Vehicles
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: c60ddfd60fbaa40428c973ec25083315
     m_Address: Assets/Prefabs/Cybertruck.prefab
     m_ReadOnly: 0
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - Vehicles
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: ea56f6ba004595445b5253f2187770f0
     m_Address: Assets/Prefabs/VolkswagenGolfMk1.prefab
     m_ReadOnly: 0
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - Vehicles
     FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: bbac4488d5f78ef429879753e656532d, type: 2}
