@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Nature
+  m_EditorClassIdentifier: 
+  m_GroupName: Nature
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 24808d7401804fc4c80dafe68b8348ce
+  m_SerializeEntries:
+  - m_GUID: 65061281ade45874cb4af16c09899230
+    m_Address: Assets/Prefabs/Nature
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Nature
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: bbac4488d5f78ef429879753e656532d, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 588dfee3699e024448ac78f3a2ae53e1, type: 2}
+    - {fileID: 11400000, guid: e084b148251c43a4f9af398cba2d81df, type: 2}

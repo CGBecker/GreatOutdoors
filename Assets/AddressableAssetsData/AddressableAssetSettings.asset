@@ -15,7 +15,7 @@ MonoBehaviour:
   m_DefaultGroup: 4e90eba02c80c4f41bcfae5bffdcd21f
   m_currentHash:
     serializedVersion: 2
-    Hash: 50af77ff40bb04f548da238fcb9f61ef
+    Hash: 00000000000000000000000000000000
   m_OptimizeCatalogSize: 0
   m_BuildRemoteCatalog: 0
   m_BundleLocalCatalog: 0
@@ -48,6 +48,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: c383ea9cc9c50ac4cae213aa7cba89db, type: 2}
   - {fileID: 11400000, guid: 8022ad795e7a7e94ba160fa13f51f4f7, type: 2}
   - {fileID: 11400000, guid: 454d5a0a7131e1e4ba7003e72cd8816c, type: 2}
+  - {fileID: 11400000, guid: 35f7bc8a3ecf1584abd32552a4343045, type: 2}
   m_BuildSettings:
     m_CompileScriptsInVirtualMode: 0
     m_CleanupStreamingAssetsAfterBuilds: 1
@@ -91,6 +92,7 @@ MonoBehaviour:
     - default
     - Levels
     - Vehicles
+    - Nature
   m_SchemaTemplates: []
   m_GroupTemplateObjects:
   - {fileID: 11400000, guid: 2e8e6276c3ecaf946a76f55ed6ebc5b8, type: 2}

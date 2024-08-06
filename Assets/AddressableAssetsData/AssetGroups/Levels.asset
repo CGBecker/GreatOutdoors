@@ -17,14 +17,14 @@ MonoBehaviour:
     m_SerializedData: []
   m_GUID: ab42668bc64f82f46ab0e58b8fd7ff58
   m_SerializeEntries:
-  - m_GUID: d01f3dec9a4536446b26a0343aa01ee0
-    m_Address: Assets/Scenes/Levels/IslandOne.unity
+  - m_GUID: 045a0bcc9a526954c84310de6d652586
+    m_Address: Assets/Scenes/TestScenes/VehicleTest.unity
     m_ReadOnly: 0
     m_SerializedLabels:
     - Levels
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 045a0bcc9a526954c84310de6d652586
-    m_Address: Assets/Scenes/TestScenes/VehicleTest.unity
+  - m_GUID: d01f3dec9a4536446b26a0343aa01ee0
+    m_Address: Assets/Scenes/Levels/IslandOne.unity
     m_ReadOnly: 0
     m_SerializedLabels:
     - Levels
