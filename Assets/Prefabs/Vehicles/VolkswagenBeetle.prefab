@@ -117,7 +117,7 @@ ArticulationBody:
   m_Enabled: 1
   serializedVersion: 5
   m_Mass: 10
-  m_ParentAnchorPosition: {x: 0, y: 0.00000023841858, z: 0}
+  m_ParentAnchorPosition: {x: -0.0000011920929, y: 0.0000021457672, z: 0.00000047683716}
   m_ParentAnchorRotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
   m_AnchorPosition: {x: 0, y: 0, z: 0}
   m_AnchorRotation: {x: 0.70710677, y: 0, z: 0, w: 0.70710677}
@@ -226,7 +226,7 @@ MonoBehaviour:
   - {fileID: 5741371568539131055}
   - {fileID: 3134814695656544028}
   _isTrigger: 0
-  _material: {fileID: 0}
+  _material: {fileID: 13400000, guid: f0231a885db052b45bbf0643381419ab, type: 2}
 --- !u!64 &3767398625788570647
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -234,7 +234,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 247002627843606591}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f0231a885db052b45bbf0643381419ab, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -256,7 +256,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 247002627843606591}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f0231a885db052b45bbf0643381419ab, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -278,7 +278,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 247002627843606591}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f0231a885db052b45bbf0643381419ab, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -300,7 +300,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 247002627843606591}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f0231a885db052b45bbf0643381419ab, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -322,7 +322,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 247002627843606591}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f0231a885db052b45bbf0643381419ab, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -344,7 +344,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 247002627843606591}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f0231a885db052b45bbf0643381419ab, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -366,7 +366,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 247002627843606591}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f0231a885db052b45bbf0643381419ab, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -388,7 +388,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 247002627843606591}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f0231a885db052b45bbf0643381419ab, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -410,7 +410,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 247002627843606591}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f0231a885db052b45bbf0643381419ab, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -432,7 +432,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 247002627843606591}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f0231a885db052b45bbf0643381419ab, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -454,7 +454,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 247002627843606591}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f0231a885db052b45bbf0643381419ab, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -476,7 +476,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 247002627843606591}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f0231a885db052b45bbf0643381419ab, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -498,7 +498,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 247002627843606591}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f0231a885db052b45bbf0643381419ab, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -520,7 +520,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 247002627843606591}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f0231a885db052b45bbf0643381419ab, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -542,7 +542,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 247002627843606591}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f0231a885db052b45bbf0643381419ab, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -564,7 +564,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 247002627843606591}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f0231a885db052b45bbf0643381419ab, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -586,7 +586,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 247002627843606591}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f0231a885db052b45bbf0643381419ab, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -608,7 +608,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 247002627843606591}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f0231a885db052b45bbf0643381419ab, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -630,7 +630,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 247002627843606591}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f0231a885db052b45bbf0643381419ab, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -652,7 +652,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 247002627843606591}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f0231a885db052b45bbf0643381419ab, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -1125,7 +1125,7 @@ ArticulationBody:
   m_Enabled: 1
   serializedVersion: 5
   m_Mass: 10
-  m_ParentAnchorPosition: {x: 0, y: -0.00000023841858, z: 0}
+  m_ParentAnchorPosition: {x: -0.0000011920929, y: -0.0000019073486, z: 0.00000023841858}
   m_ParentAnchorRotation: {x: 0.5, y: 0.5, z: -0.5, w: 0.5}
   m_AnchorPosition: {x: 0, y: 0, z: 0}
   m_AnchorRotation: {x: 0.49999997, y: 0.49999997, z: -0.49999997, w: 0.49999997}
@@ -1140,8 +1140,8 @@ ArticulationBody:
   m_XDrive:
     lowerLimit: -30
     upperLimit: 30
-    stiffness: 1000
-    damping: 100
+    stiffness: 10000
+    damping: 500
     forceLimit: 3.4028235e+38
     target: 0
     targetVelocity: 0
@@ -2293,8 +2293,8 @@ MonoBehaviour:
   WheelsMotors:
   - {fileID: 6420699305696208206}
   - {fileID: 5094064794006963447}
-  ForwardTorque: 2000
-  ReverseTorque: 500
+  ForwardTorque: 5000
+  ReverseTorque: 2000
   WheelsSuspensions:
   - {fileID: 6913699383246103935}
   - {fileID: 8271550896999353452}
@@ -2304,13 +2304,13 @@ MonoBehaviour:
   - {fileID: 4535938802207040484}
   - {fileID: 9053749699402046773}
   MaxSteeringForce: 100000
-  SteeringForce: 600
+  SteeringForce: 5000
   WheelsWithBrakes:
   - {fileID: 556086671527663420}
   - {fileID: 6985819379631716660}
   - {fileID: 6420699305696208206}
   - {fileID: 5094064794006963447}
-  BrakesTorque: 1000
+  BrakesTorque: 5000
   HeadLights:
   - {fileID: 1545944341741405867}
   - {fileID: 2778225172218162588}
@@ -2372,7 +2372,7 @@ ArticulationBody:
   m_Enabled: 1
   serializedVersion: 5
   m_Mass: 10
-  m_ParentAnchorPosition: {x: 0, y: -0.00000023841858, z: 0}
+  m_ParentAnchorPosition: {x: 0.0000011920929, y: -0.0000019073486, z: 0.00000023841858}
   m_ParentAnchorRotation: {x: 0.5, y: 0.5, z: -0.5, w: 0.5}
   m_AnchorPosition: {x: 0, y: 0, z: 0}
   m_AnchorRotation: {x: 0.49999997, y: 0.49999997, z: -0.49999997, w: 0.49999997}
@@ -2387,8 +2387,8 @@ ArticulationBody:
   m_XDrive:
     lowerLimit: -30
     upperLimit: 30
-    stiffness: 1000
-    damping: 100
+    stiffness: 10000
+    damping: 500
     forceLimit: 3.4028235e+38
     target: 0
     targetVelocity: 0
@@ -2471,7 +2471,7 @@ ArticulationBody:
   m_Enabled: 1
   serializedVersion: 5
   m_Mass: 10
-  m_ParentAnchorPosition: {x: -0.655, y: 1.120001, z: 0.22500002}
+  m_ParentAnchorPosition: {x: -0.6549988, y: 1.1200029, z: 0.2250005}
   m_ParentAnchorRotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
   m_AnchorPosition: {x: 0, y: 0, z: 0}
   m_AnchorRotation: {x: 0.70710677, y: 0, z: 0, w: 0.70710677}
@@ -2495,7 +2495,7 @@ ArticulationBody:
   m_YDrive:
     lowerLimit: -0.3
     upperLimit: 0.1
-    stiffness: 50000
+    stiffness: 100000
     damping: 5000
     forceLimit: 3.4028235e+38
     target: -0.05
@@ -2512,7 +2512,7 @@ ArticulationBody:
     driveType: 0
   m_LinearDamping: 0.05
   m_AngularDamping: 0.05
-  m_JointFriction: 50
+  m_JointFriction: 0.05
   m_CenterOfMass: {x: 0, y: 0, z: 0}
   m_InertiaTensor: {x: 1, y: 1, z: 1}
   m_InertiaRotation: {x: 0, y: 0, z: 0, w: 1}
@@ -3074,7 +3074,7 @@ ArticulationBody:
   m_Enabled: 1
   serializedVersion: 5
   m_Mass: 10
-  m_ParentAnchorPosition: {x: 0, y: -0.00000023841858, z: 0}
+  m_ParentAnchorPosition: {x: -0.0000011920929, y: -0.0000019073486, z: 0.00000023841858}
   m_ParentAnchorRotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
   m_AnchorPosition: {x: 0, y: 0, z: 0}
   m_AnchorRotation: {x: 0.70710677, y: 0, z: 0, w: 0.70710677}
@@ -3183,7 +3183,7 @@ MonoBehaviour:
   - {fileID: 3950385989484183861}
   - {fileID: 7427827298184083594}
   _isTrigger: 0
-  _material: {fileID: 0}
+  _material: {fileID: 13400000, guid: f0231a885db052b45bbf0643381419ab, type: 2}
 --- !u!64 &8108208326015895428
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -3191,7 +3191,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3300200154933723976}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f0231a885db052b45bbf0643381419ab, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -3213,7 +3213,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3300200154933723976}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f0231a885db052b45bbf0643381419ab, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -3235,7 +3235,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3300200154933723976}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f0231a885db052b45bbf0643381419ab, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -3257,7 +3257,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3300200154933723976}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f0231a885db052b45bbf0643381419ab, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -3279,7 +3279,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3300200154933723976}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f0231a885db052b45bbf0643381419ab, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -3301,7 +3301,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3300200154933723976}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f0231a885db052b45bbf0643381419ab, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -3323,7 +3323,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3300200154933723976}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f0231a885db052b45bbf0643381419ab, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -3345,7 +3345,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3300200154933723976}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f0231a885db052b45bbf0643381419ab, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -3367,7 +3367,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3300200154933723976}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f0231a885db052b45bbf0643381419ab, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -3389,7 +3389,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3300200154933723976}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f0231a885db052b45bbf0643381419ab, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -3411,7 +3411,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3300200154933723976}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f0231a885db052b45bbf0643381419ab, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -3433,7 +3433,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3300200154933723976}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f0231a885db052b45bbf0643381419ab, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -3455,7 +3455,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3300200154933723976}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f0231a885db052b45bbf0643381419ab, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -3477,7 +3477,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3300200154933723976}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f0231a885db052b45bbf0643381419ab, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -3499,7 +3499,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3300200154933723976}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f0231a885db052b45bbf0643381419ab, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -3521,7 +3521,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3300200154933723976}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f0231a885db052b45bbf0643381419ab, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -3543,7 +3543,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3300200154933723976}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f0231a885db052b45bbf0643381419ab, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -3565,7 +3565,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3300200154933723976}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f0231a885db052b45bbf0643381419ab, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -3587,7 +3587,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3300200154933723976}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f0231a885db052b45bbf0643381419ab, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -3609,7 +3609,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3300200154933723976}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f0231a885db052b45bbf0643381419ab, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -3741,7 +3741,7 @@ ArticulationBody:
   m_Enabled: 1
   serializedVersion: 5
   m_Mass: 10
-  m_ParentAnchorPosition: {x: 0, y: -0.00000023841858, z: 0}
+  m_ParentAnchorPosition: {x: 0.0000011920929, y: -0.0000019073486, z: 0.00000023841858}
   m_ParentAnchorRotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
   m_AnchorPosition: {x: 0, y: 0, z: 0}
   m_AnchorRotation: {x: 0.70710677, y: 0, z: 0, w: 0.70710677}
@@ -3850,7 +3850,7 @@ MonoBehaviour:
   - {fileID: 6097000403907431964}
   - {fileID: 2280987488235275221}
   _isTrigger: 0
-  _material: {fileID: 0}
+  _material: {fileID: 13400000, guid: f0231a885db052b45bbf0643381419ab, type: 2}
 --- !u!64 &5187340062279309821
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -3858,7 +3858,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3418453710780980988}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f0231a885db052b45bbf0643381419ab, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -3880,7 +3880,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3418453710780980988}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f0231a885db052b45bbf0643381419ab, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -3902,7 +3902,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3418453710780980988}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f0231a885db052b45bbf0643381419ab, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -3924,7 +3924,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3418453710780980988}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f0231a885db052b45bbf0643381419ab, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -3946,7 +3946,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3418453710780980988}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f0231a885db052b45bbf0643381419ab, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -3968,7 +3968,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3418453710780980988}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f0231a885db052b45bbf0643381419ab, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -3990,7 +3990,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3418453710780980988}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f0231a885db052b45bbf0643381419ab, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -4012,7 +4012,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3418453710780980988}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f0231a885db052b45bbf0643381419ab, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -4034,7 +4034,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3418453710780980988}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f0231a885db052b45bbf0643381419ab, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -4056,7 +4056,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3418453710780980988}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f0231a885db052b45bbf0643381419ab, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -4078,7 +4078,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3418453710780980988}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f0231a885db052b45bbf0643381419ab, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -4100,7 +4100,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3418453710780980988}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f0231a885db052b45bbf0643381419ab, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -4122,7 +4122,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3418453710780980988}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f0231a885db052b45bbf0643381419ab, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -4144,7 +4144,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3418453710780980988}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f0231a885db052b45bbf0643381419ab, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -4166,7 +4166,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3418453710780980988}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f0231a885db052b45bbf0643381419ab, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -4188,7 +4188,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3418453710780980988}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f0231a885db052b45bbf0643381419ab, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -4210,7 +4210,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3418453710780980988}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f0231a885db052b45bbf0643381419ab, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -4232,7 +4232,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3418453710780980988}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f0231a885db052b45bbf0643381419ab, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -4254,7 +4254,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3418453710780980988}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f0231a885db052b45bbf0643381419ab, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -4276,7 +4276,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3418453710780980988}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f0231a885db052b45bbf0643381419ab, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -5133,7 +5133,7 @@ ArticulationBody:
   m_Enabled: 1
   serializedVersion: 5
   m_Mass: 10
-  m_ParentAnchorPosition: {x: 0.655, y: -1.301001, z: 0.22500002}
+  m_ParentAnchorPosition: {x: 0.6549988, y: -1.3010026, z: 0.22500026}
   m_ParentAnchorRotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
   m_AnchorPosition: {x: 0, y: 0, z: 0}
   m_AnchorRotation: {x: 0.70710677, y: 0, z: 0, w: 0.70710677}
@@ -5157,7 +5157,7 @@ ArticulationBody:
   m_YDrive:
     lowerLimit: -0.2
     upperLimit: 0.1
-    stiffness: 50000
+    stiffness: 100000
     damping: 5000
     forceLimit: 3.4028235e+38
     target: -0.05
@@ -5174,7 +5174,7 @@ ArticulationBody:
     driveType: 0
   m_LinearDamping: 0.05
   m_AngularDamping: 0.05
-  m_JointFriction: 50
+  m_JointFriction: 0.05
   m_CenterOfMass: {x: 0, y: 0, z: 0}
   m_InertiaTensor: {x: 1, y: 1, z: 1}
   m_InertiaRotation: {x: 0, y: 0, z: 0, w: 1}
@@ -5936,7 +5936,7 @@ ArticulationBody:
   m_Enabled: 1
   serializedVersion: 5
   m_Mass: 10
-  m_ParentAnchorPosition: {x: -0.655, y: -1.301001, z: 0.22500002}
+  m_ParentAnchorPosition: {x: -0.6549988, y: -1.3010026, z: 0.22500026}
   m_ParentAnchorRotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
   m_AnchorPosition: {x: 0, y: 0, z: 0}
   m_AnchorRotation: {x: 0.70710677, y: 0, z: 0, w: 0.70710677}
@@ -5960,7 +5960,7 @@ ArticulationBody:
   m_YDrive:
     lowerLimit: -0.2
     upperLimit: 0.1
-    stiffness: 50000
+    stiffness: 100000
     damping: 5000
     forceLimit: 3.4028235e+38
     target: -0.05
@@ -5977,7 +5977,7 @@ ArticulationBody:
     driveType: 0
   m_LinearDamping: 0.05
   m_AngularDamping: 0.05
-  m_JointFriction: 50
+  m_JointFriction: 0.05
   m_CenterOfMass: {x: 0, y: 0, z: 0}
   m_InertiaTensor: {x: 1, y: 1, z: 1}
   m_InertiaRotation: {x: 0, y: 0, z: 0, w: 1}
@@ -7684,7 +7684,7 @@ ArticulationBody:
   m_Enabled: 1
   serializedVersion: 5
   m_Mass: 10
-  m_ParentAnchorPosition: {x: 0, y: 0.00000023841858, z: 0}
+  m_ParentAnchorPosition: {x: 0.0000011920929, y: 0.0000021457672, z: 0.00000047683716}
   m_ParentAnchorRotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
   m_AnchorPosition: {x: 0, y: 0, z: 0}
   m_AnchorRotation: {x: 0.70710677, y: 0, z: 0, w: 0.70710677}
@@ -7793,7 +7793,7 @@ MonoBehaviour:
   - {fileID: 6604550354587400292}
   - {fileID: 2850285970250394366}
   _isTrigger: 0
-  _material: {fileID: 0}
+  _material: {fileID: 13400000, guid: f0231a885db052b45bbf0643381419ab, type: 2}
 --- !u!64 &6362711789645786759
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -7801,7 +7801,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8186405335141876155}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f0231a885db052b45bbf0643381419ab, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -7823,7 +7823,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8186405335141876155}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f0231a885db052b45bbf0643381419ab, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -7845,7 +7845,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8186405335141876155}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f0231a885db052b45bbf0643381419ab, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -7867,7 +7867,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8186405335141876155}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f0231a885db052b45bbf0643381419ab, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -7889,7 +7889,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8186405335141876155}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f0231a885db052b45bbf0643381419ab, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -7911,7 +7911,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8186405335141876155}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f0231a885db052b45bbf0643381419ab, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -7933,7 +7933,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8186405335141876155}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f0231a885db052b45bbf0643381419ab, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -7955,7 +7955,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8186405335141876155}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f0231a885db052b45bbf0643381419ab, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -7977,7 +7977,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8186405335141876155}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f0231a885db052b45bbf0643381419ab, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -7999,7 +7999,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8186405335141876155}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f0231a885db052b45bbf0643381419ab, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -8021,7 +8021,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8186405335141876155}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f0231a885db052b45bbf0643381419ab, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -8043,7 +8043,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8186405335141876155}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f0231a885db052b45bbf0643381419ab, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -8065,7 +8065,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8186405335141876155}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f0231a885db052b45bbf0643381419ab, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -8087,7 +8087,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8186405335141876155}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f0231a885db052b45bbf0643381419ab, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -8109,7 +8109,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8186405335141876155}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f0231a885db052b45bbf0643381419ab, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -8131,7 +8131,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8186405335141876155}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f0231a885db052b45bbf0643381419ab, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -8153,7 +8153,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8186405335141876155}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f0231a885db052b45bbf0643381419ab, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -8175,7 +8175,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8186405335141876155}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f0231a885db052b45bbf0643381419ab, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -8197,7 +8197,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8186405335141876155}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f0231a885db052b45bbf0643381419ab, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -8219,7 +8219,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8186405335141876155}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: f0231a885db052b45bbf0643381419ab, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -8494,7 +8494,7 @@ ArticulationBody:
   m_Enabled: 1
   serializedVersion: 5
   m_Mass: 10
-  m_ParentAnchorPosition: {x: 0.655, y: 1.120001, z: 0.22500002}
+  m_ParentAnchorPosition: {x: 0.6549988, y: 1.1200029, z: 0.2250005}
   m_ParentAnchorRotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
   m_AnchorPosition: {x: 0, y: 0, z: 0}
   m_AnchorRotation: {x: 0.70710677, y: 0, z: 0, w: 0.70710677}
@@ -8518,7 +8518,7 @@ ArticulationBody:
   m_YDrive:
     lowerLimit: -0.3
     upperLimit: 0.1
-    stiffness: 50000
+    stiffness: 100000
     damping: 5000
     forceLimit: 3.4028235e+38
     target: -0.05
@@ -8535,7 +8535,7 @@ ArticulationBody:
     driveType: 0
   m_LinearDamping: 0.05
   m_AngularDamping: 0.05
-  m_JointFriction: 50
+  m_JointFriction: 0.05
   m_CenterOfMass: {x: 0, y: 0, z: 0}
   m_InertiaTensor: {x: 1, y: 1, z: 1}
   m_InertiaRotation: {x: 0, y: 0, z: 0, w: 1}

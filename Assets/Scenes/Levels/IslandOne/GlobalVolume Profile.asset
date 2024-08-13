@@ -503,16 +503,16 @@ MonoBehaviour:
   active: 1
   quality:
     m_OverrideState: 0
-    m_Value: 1
+    m_Value: 3
   enabled:
-    m_OverrideState: 0
+    m_OverrideState: 1
     m_Value: 1
   enabledTransparent:
-    m_OverrideState: 0
+    m_OverrideState: 1
     m_Value: 1
   tracing:
-    m_OverrideState: 0
-    m_Value: 1
+    m_OverrideState: 1
+    m_Value: 2
   m_MinSmoothness:
     m_OverrideState: 0
     m_Value: 0.9
@@ -582,7 +582,7 @@ MonoBehaviour:
     m_OverrideState: 0
     m_Value: 1
   m_Denoise:
-    m_OverrideState: 0
+    m_OverrideState: 1
     m_Value: 1
   m_DenoiserRadius:
     m_OverrideState: 0
@@ -591,7 +591,7 @@ MonoBehaviour:
     m_OverrideState: 0
     m_Value: 0
   mode:
-    m_OverrideState: 0
+    m_OverrideState: 1
     m_Value: 2
   m_FullResolution:
     m_OverrideState: 0
