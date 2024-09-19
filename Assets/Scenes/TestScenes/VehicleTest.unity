@@ -14897,9 +14897,73 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 556086671527663420, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
+      propertyPath: m_AngularDamping
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 556086671527663420, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
+      propertyPath: m_XDrive.damping
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 556086671527663420, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
+      propertyPath: m_XDrive.stiffness
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 556086671527663420, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
+      propertyPath: m_ParentAnchorPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 556086671527663420, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
+      propertyPath: m_ParentAnchorPosition.y
+      value: -0.00000023841858
+      objectReference: {fileID: 0}
+    - target: {fileID: 556086671527663420, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
+      propertyPath: m_ParentAnchorPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1237609133861274356, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
+      propertyPath: m_ParentAnchorPosition.x
+      value: 0.655
+      objectReference: {fileID: 0}
+    - target: {fileID: 1237609133861274356, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
+      propertyPath: m_ParentAnchorPosition.y
+      value: 1.120001
+      objectReference: {fileID: 0}
+    - target: {fileID: 1237609133861274356, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
+      propertyPath: m_ParentAnchorPosition.z
+      value: 0.22500002
+      objectReference: {fileID: 0}
+    - target: {fileID: 1545944341741405867, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
+      propertyPath: m_Intensity
+      value: 462.10742
+      objectReference: {fileID: 0}
+    - target: {fileID: 1545944341741405867, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
+      propertyPath: m_SpotAngle
+      value: 75
+      objectReference: {fileID: 0}
+    - target: {fileID: 2009196811751252070, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
+      propertyPath: m_ParentAnchorPosition.x
+      value: -0.655
+      objectReference: {fileID: 0}
+    - target: {fileID: 2009196811751252070, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
+      propertyPath: m_ParentAnchorPosition.y
+      value: 1.120001
+      objectReference: {fileID: 0}
+    - target: {fileID: 2009196811751252070, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
+      propertyPath: m_ParentAnchorPosition.z
+      value: 0.22500002
+      objectReference: {fileID: 0}
     - target: {fileID: 2708550501989937319, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
       propertyPath: m_Name
       value: VolkswagenBeetle
+      objectReference: {fileID: 0}
+    - target: {fileID: 2778225172218162588, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
+      propertyPath: m_Intensity
+      value: 462.10742
+      objectReference: {fileID: 0}
+    - target: {fileID: 2778225172218162588, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
+      propertyPath: m_SpotAngle
+      value: 75
       objectReference: {fileID: 0}
     - target: {fileID: 3376966312547887645, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
       propertyPath: m_LocalPosition.x
@@ -14941,6 +15005,34 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4535938802207040484, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
+      propertyPath: m_XDrive.damping
+      value: 500
+      objectReference: {fileID: 0}
+    - target: {fileID: 4535938802207040484, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
+      propertyPath: m_XDrive.stiffness
+      value: 50000
+      objectReference: {fileID: 0}
+    - target: {fileID: 4535938802207040484, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
+      propertyPath: m_ParentAnchorPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4535938802207040484, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
+      propertyPath: m_ParentAnchorPosition.y
+      value: -0.00000023841858
+      objectReference: {fileID: 0}
+    - target: {fileID: 4535938802207040484, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
+      propertyPath: m_ParentAnchorPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050437240234035665, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
+      propertyPath: SteeringForce
+      value: 15000
+      objectReference: {fileID: 0}
+    - target: {fileID: 5050437240234035665, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
+      propertyPath: MaxSteeringForce
+      value: 100000
+      objectReference: {fileID: 0}
     - target: {fileID: 5050437240234035665, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
       propertyPath: HeadLightsIntensity.Array.data[0]
       value: 600
@@ -14948,6 +15040,130 @@ PrefabInstance:
     - target: {fileID: 5050437240234035665, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
       propertyPath: HeadLightsIntensity.Array.data[1]
       value: 600
+      objectReference: {fileID: 0}
+    - target: {fileID: 5094064794006963447, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
+      propertyPath: m_XDrive.damping
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5094064794006963447, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
+      propertyPath: m_XDrive.stiffness
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5094064794006963447, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
+      propertyPath: m_ParentAnchorPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5094064794006963447, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
+      propertyPath: m_ParentAnchorPosition.y
+      value: 0.00000023841858
+      objectReference: {fileID: 0}
+    - target: {fileID: 5094064794006963447, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
+      propertyPath: m_ParentAnchorPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6420699305696208206, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
+      propertyPath: m_XDrive.damping
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6420699305696208206, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
+      propertyPath: m_XDrive.stiffness
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6420699305696208206, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
+      propertyPath: m_ParentAnchorPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6420699305696208206, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
+      propertyPath: m_ParentAnchorPosition.y
+      value: 0.00000023841858
+      objectReference: {fileID: 0}
+    - target: {fileID: 6420699305696208206, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
+      propertyPath: m_ParentAnchorPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6699394355237043740, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
+      propertyPath: m_InnerSpotPercent
+      value: 58
+      objectReference: {fileID: 0}
+    - target: {fileID: 6699394355237043740, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
+      propertyPath: m_CustomSpotLightShadowCone
+      value: 26
+      objectReference: {fileID: 0}
+    - target: {fileID: 6913699383246103935, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
+      propertyPath: m_ParentAnchorPosition.x
+      value: 0.655
+      objectReference: {fileID: 0}
+    - target: {fileID: 6913699383246103935, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
+      propertyPath: m_ParentAnchorPosition.y
+      value: -1.301001
+      objectReference: {fileID: 0}
+    - target: {fileID: 6913699383246103935, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
+      propertyPath: m_ParentAnchorPosition.z
+      value: 0.22500002
+      objectReference: {fileID: 0}
+    - target: {fileID: 6985819379631716660, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
+      propertyPath: m_AngularDamping
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 6985819379631716660, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
+      propertyPath: m_XDrive.damping
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6985819379631716660, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
+      propertyPath: m_XDrive.stiffness
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6985819379631716660, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
+      propertyPath: m_ParentAnchorPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6985819379631716660, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
+      propertyPath: m_ParentAnchorPosition.y
+      value: -0.00000023841858
+      objectReference: {fileID: 0}
+    - target: {fileID: 6985819379631716660, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
+      propertyPath: m_ParentAnchorPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8271550896999353452, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
+      propertyPath: m_ParentAnchorPosition.x
+      value: -0.655
+      objectReference: {fileID: 0}
+    - target: {fileID: 8271550896999353452, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
+      propertyPath: m_ParentAnchorPosition.y
+      value: -1.301001
+      objectReference: {fileID: 0}
+    - target: {fileID: 8271550896999353452, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
+      propertyPath: m_ParentAnchorPosition.z
+      value: 0.22500002
+      objectReference: {fileID: 0}
+    - target: {fileID: 8892571461419524079, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
+      propertyPath: m_InnerSpotPercent
+      value: 58
+      objectReference: {fileID: 0}
+    - target: {fileID: 8892571461419524079, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
+      propertyPath: m_CustomSpotLightShadowCone
+      value: 26
+      objectReference: {fileID: 0}
+    - target: {fileID: 9053749699402046773, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
+      propertyPath: m_XDrive.damping
+      value: 500
+      objectReference: {fileID: 0}
+    - target: {fileID: 9053749699402046773, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
+      propertyPath: m_XDrive.stiffness
+      value: 50000
+      objectReference: {fileID: 0}
+    - target: {fileID: 9053749699402046773, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
+      propertyPath: m_ParentAnchorPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9053749699402046773, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
+      propertyPath: m_ParentAnchorPosition.y
+      value: -0.00000023841858
+      objectReference: {fileID: 0}
+    - target: {fileID: 9053749699402046773, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
+      propertyPath: m_ParentAnchorPosition.z
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
