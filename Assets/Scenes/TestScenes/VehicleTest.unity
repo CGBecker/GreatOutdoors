@@ -14897,6 +14897,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1996945584114485768, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
+      propertyPath: m_Anamorphism
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2708550501989937319, guid: d5d799b5ffb73324ead2c8cebf6042fa, type: 3}
       propertyPath: m_Name
       value: VolkswagenBeetle
