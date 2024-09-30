@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Physics
+  m_EditorClassIdentifier: 
+  m_GroupName: Physics
+  m_Data:
+    m_SerializedData: []
+  m_GUID: b762a83ce86c6f448abd5da81b9845c1
+  m_SerializeEntries:
+  - m_GUID: 0ccb3949b0424d242916e73a39e1349e
+    m_Address: Packages/com.cgbecker.sim.pack/PhysicsMaterials/Default.physicMaterial
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Physics
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3b21831983e000d43a534fe90074e6a7
+    m_Address: Packages/com.cgbecker.sim.pack/PhysicsMaterials/WetConcrete.physicMaterial
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Physics
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 713c33973bbf15d4c9ce290c026a29bc
+    m_Address: Packages/com.cgbecker.sim.pack/PhysicsMaterials/Concrete.physicMaterial
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Physics
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a654fef5c934457418a595f66cad42ec
+    m_Address: Packages/com.cgbecker.sim.pack/PhysicsMaterials/Dirt.physicMaterial
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Physics
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c6019db8898319b4a8926b809417f153
+    m_Address: Packages/com.cgbecker.sim.pack/PhysicsMaterials/Metal.physicMaterial
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Physics
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ee123554bf370be45b010187e8de7101
+    m_Address: Packages/com.cgbecker.sim.pack/PhysicsMaterials/Ice.physicMaterial
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Physics
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f0231a885db052b45bbf0643381419ab
+    m_Address: Packages/com.cgbecker.sim.pack/PhysicsMaterials/Rubber.physicMaterial
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Physics
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: bbac4488d5f78ef429879753e656532d, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 2f78e07ac796ee6409e0bbbb6b193a14, type: 2}
+    - {fileID: 11400000, guid: 1a92ba9a118d4254bb6a17bc8538773a, type: 2}
